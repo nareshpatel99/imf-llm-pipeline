@@ -1,0 +1,268 @@
+{
+  "sections": [
+    {
+      "section_id": "S00",
+      "title": "Opening of document on p.2: This report on Seychelles was prepared ...",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [],
+      "rationale": "The candidate accurately and concisely summarizes the package of documents described in the source. All dates, program names, and financial figures align perfectly with the source text.",
+      "numbers": 5,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S01",
+      "title": "Press Release",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Completion of the reviews allows an immediate disbursement of approximately US$12.1 million (SDR 9.2 million across EFF and RSF)."
+      ],
+      "rationale": "The candidate provides an accurate and concise summary of the program performance, macroeconomic projections, and risks. It only misses mentioning the specific disbursement amount unlocked by the review completion.",
+      "numbers": 5,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S02",
+      "title": "Executive Summary",
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Identification of the country (Seychelles)",
+        "Drivers of the growth slowdown (reduced direct flights and lower tourist spending)",
+        "Specific details on EFF and RSF performance (all quantitative targets met, delays/modifications to structural benchmarks and reform measures)"
+      ],
+      "rationale": "The candidate is completely accurate and free of contradictions relative to the source text. However, it omits crucial context including the country name, the drivers behind the growth slowdown, and specific EFF/RSF program performance details.",
+      "numbers": 7,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S03",
+      "title": "Context And Recent Developments",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "FDI inflows cushioning the balance of payments and reserve accumulation by CBS",
+        "The 2024 primary fiscal surplus is projected to reach 1.1 percent of GDP"
+      ],
+      "rationale": "The summary is completely accurate and supported by the source text without any contradictions. It captures the main macroeconomic projections well, though it omits details on the primary fiscal surplus and FDI cushioning the external position.",
+      "numbers": 8,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S04",
+      "title": "Outlook And Risks",
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Domestic downside risks, including financial stability risks (credit concentration, high NPLs), climate change/natural disasters, and 2025 election tensions.",
+        "Recent inflation dynamics, notably its rebound from negative territory driven by utility tariff hikes and exchange rate depreciation."
+      ],
+      "rationale": "The summary accurately captures the baseline macroeconomic projections with perfect factual alignment. However, it omits significant domestic risks and recent inflation developments.",
+      "numbers": 6,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S05",
+      "title": "Program Performance",
+      "consistency": 3,
+      "completeness": 3,
+      "factual_alignment": 3,
+      "unsupported_claims": [
+        "Dropping negative climate tagging appears infeasible before the program ends"
+      ],
+      "missing_points": [
+        "Revenue collection and primary fiscal balance exceeded targets by a wide margin",
+        "Adoption of a climate finance strategy and specific structural benchmark delays"
+      ],
+      "rationale": "The candidate misinterprets the source by stating that dropping negative climate tagging is infeasible, when the source actually notes that the tagging requirement itself is infeasible and thus proposed to be dropped. The rest of the text captures the general findings, though several notable fiscal and structural benchmark details are omitted.",
+      "numbers": 2,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S06",
+      "title": "Policy Discussions",
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Progress and rephasing of climate-related reform measures (RSF) including the climate finance strategy and PIM guidelines",
+        "SOE governance and operational audits of six key public enterprises",
+        "Recent trajectory of public debt ratio (projected to rise to 61.5 percent of GDP in 2024 before declining)"
+      ],
+      "rationale": "The summary is fully factually aligned and consistent with the source, with zero unsupported claims. However, it omits significant sections of the text, notably climate change adaptation/mitigation reforms and state-owned enterprise audits.",
+      "numbers": 5,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S07",
+      "title": "Program Modalities",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Modifications and reprofiling of Reform Measures (RMs) under the RSF arrangement."
+      ],
+      "rationale": "The candidate provides a highly accurate and concise summary of the key program targets, reviews, financing, and risk assessments. It omits the technical modifications to RSF reform measures, but otherwise covers the main messages faithfully.",
+      "numbers": 5,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S08",
+      "title": "Staff Appraisal",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Challenges and capacity constraints regarding RSF climate reform implementation"
+      ],
+      "rationale": "The candidate provides an exceptionally accurate and faithful summary of the key findings in the staff report. It covers the primary macroeconomic dimensions well, only omitting details regarding the challenges of RSF climate reform implementation.",
+      "numbers": 3,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S09",
+      "title": "Annex I. Risk Assessment Matrix",
+      "consistency": 5,
+      "completeness": 2,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Specific conjunctural risks such as intensification of regional conflicts, global growth slowdown, commodity price volatility, and rising banking sector NPLs in Seychelles",
+        "Specific structural risks, including climate change and geoeconomic fragmentation affecting imports",
+        "Key recommended policy responses such as contingency planning, targeted support, and rebuilding fiscal and foreign exchange buffers"
+      ],
+      "rationale": "The candidate is factually accurate and consistent with the source, accurately describing the table's definitions and framework. However, it completely omits the specific risks, country context (Seychelles), and policy recommendations that make up the core content of the matrix.",
+      "numbers": 7,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S10",
+      "title": "Annex II. Interest Rate Spread in Seychelles",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [],
+      "rationale": "The summary is highly accurate and concisely synthesizes the main diagnosis, structural constraints, policy recommendations, and financial stability caveats without introducing any unsupported claims.",
+      "numbers": 2,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S11",
+      "title": "Annex III. Financial Sector Reform Measures Under the 2024-26",
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Specific subject matter of RM6 regarding climate risk management and disclosure guidelines for banks",
+        "Specific subject matter of RM9 regarding the shift from climate-related stress testing to a climate risk assessment framework",
+        "The concrete restructuring and phasing of RM6 and RM9 into sub-measures extending through 2026"
+      ],
+      "rationale": "The candidate accurately captures the overarching reasons for the reform adjustments without introducing any factual errors. However, it omits the actual substance of the measures, namely climate-related financial disclosures and the transition from stress testing to risk assessment frameworks.",
+      "numbers": 3,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S12",
+      "title": "Appendix I. Letter of Intent",
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Commitment to maintaining a 1.1 percent of GDP primary fiscal surplus target despite growth slowdown.",
+        "Progress and rephasing of climate-related reform measures under the RSF."
+      ],
+      "rationale": "The candidate summary is completely accurate and supported by the source text. However, for a high-level summary, it devotes disproportionate space to technical budgeting framework recommendations while omitting key themes such as the primary fiscal surplus target and climate-related RSF reforms.",
+      "numbers": 5,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S13",
+      "title": "Opening of document on p.93: This supplement provides additional information to ...",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "The draft Bank Recovery and Resolution Act was an end-September 2024 structural benchmark under the EFF implemented with delay."
+      ],
+      "rationale": "The candidate is highly accurate and captures the core updates described in the text. It only misses minor context regarding the EFF benchmark timing for the Bank Recovery and Resolution Act.",
+      "numbers": 6,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    },
+    {
+      "section_id": "S14",
+      "title": "Statement by Mr. Seong-Wook Kim, Executive Director for Seychelles",
+      "consistency": 5,
+      "completeness": 3,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "missing_points": [
+        "Context of the EFF and RSF program reviews, including the proposed rephasing of RSF reform measures",
+        "Current account deficit widening to 10.7 percent of GDP due to tourism weakness",
+        "Monetary policy developments, reserve accumulation, and financial sector stability"
+      ],
+      "rationale": "The summary is fully accurate and consistent with the source text, with no unsupported claims. However, it leaves out major program context such as the EFF/RSF reviews and key monetary and external sector data.",
+      "numbers": 10,
+      "ungrounded": [],
+      "grounding_rate": 1.0
+    }
+  ],
+  "executive_summary": {
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "missing_points": [],
+    "rationale": "The candidate provides an exceptionally accurate and comprehensive summary of the report. Every metric and policy statement is directly supported by the text without contradictions.",
+    "numbers": 27,
+    "ungrounded": [],
+    "grounding_rate": 1.0
+  },
+  "executive_summary_draft": {
+    "consistency": 4,
+    "completeness": 3,
+    "factual_alignment": 4,
+    "unsupported_claims": [
+      "before stabilizing at around 3.5 percent in the medium term as tourism demand moderates"
+    ],
+    "missing_points": [
+      "Executive Board completion of the third reviews under the EFF and RSF arrangements and approval of the US$12.1 million disbursement (SDR 6.1m EFF, SDR 3.1m RSF).",
+      "Performance under the EFF and RSF programs, including the rephasing/delay of RSF reform measures due to capacity constraints and adoption of the National Climate Finance Strategy."
+    ],
+    "rationale": "The candidate provides accurate macroeconomic indicators but misstates the medium-term growth driver (the source assumes a recovery/stabilization of tourism rather than moderating demand). Crucially, it omits the core context of the document: the completion of the EFF/RSF third reviews, the approved disbursements, and program performance adjustments.",
+    "numbers": 24,
+    "ungrounded": [],
+    "grounding_rate": 1.0
+  }
+}

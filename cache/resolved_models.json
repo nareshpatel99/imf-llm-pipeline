@@ -1,0 +1,4 @@
+{
+  "extractor": "google/gemini-3.7-flash",
+  "judge": "google/gemini-3.8-flash"
+}

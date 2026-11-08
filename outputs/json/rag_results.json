@@ -1,0 +1,374 @@
+[
+  {
+    "question": "What is the central bank's monetary policy rate, and how does IMF staff assess the monetary policy stance?",
+    "method": "single_query",
+    "answer": "The central bank's monetary policy rate (MPR) is set at 1.75 percent [C086]. \n\nIMF staff assesses the current monetary policy stance as \"broadly neutral\" and considers it appropriate [C024]. Staff recommends a data-dependent approach, noting that the CBS should be ready to respond to emerging price pressures if they materialize, while further monetary accommodation would be warranted if downside risks to economic activity materialize [C024].",
+    "retrieved": [
+      "C110",
+      "C127",
+      "C086",
+      "C024",
+      "C001"
+    ],
+    "pages_covered": 5,
+    "context_tokens": 2189,
+    "queries": [
+      "What is the central bank's monetary policy rate, and how does IMF staff assess the monetary policy stance?"
+    ],
+    "citations": [
+      "C024",
+      "C086"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 5,
+    "hallucinated_claims": [],
+    "rationale": "The answer directly and accurately answers both components of the question using the provided context. All statements are fully supported by context chunks C086 and C024 without any hallucinations or extraneous details."
+  },
+  {
+    "question": "What is the central bank's monetary policy rate, and how does IMF staff assess the monetary policy stance?",
+    "method": "multi_query",
+    "answer": "The central bank's Monetary Policy Rate (MPR) is set at 1.75 percent, after being lowered from 2.0 percent for the second quarter of 2024 and maintained at that level thereafter [C065], [C086]. \n\nIMF staff assesses the current monetary policy stance as \"broadly neutral\" and considers it \"appropriate\" [C024]. Staff recommends a data-dependent approach, noting that the Central Bank of Seychelles (CBS) should be prepared to respond to emerging price pressures if they materialize, whereas further monetary accommodation would be warranted if downside risks in economic activity materialize given the still low level of headline inflation [C024].",
+    "retrieved": [
+      "C024",
+      "C127",
+      "C110",
+      "C065",
+      "C086",
+      "C047",
+      "C087",
+      "C001"
+    ],
+    "pages_covered": 8,
+    "context_tokens": 3463,
+    "queries": [
+      "What is the central bank's monetary policy rate, and how does IMF staff assess the monetary policy stance?",
+      "policy rate monetary policy stance staff assessment neutral restrictive",
+      "central bank benchmark interest rate monetary stance appropriate accommodative tightening",
+      "key policy rate monetary stance staff appraisal neutral real interest rate",
+      "central bank s monetary policy rate imf staff assess monetary policy stance"
+    ],
+    "citations": [
+      "C024",
+      "C065",
+      "C086"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 5,
+    "hallucinated_claims": [],
+    "rationale": "The answer accurately and completely answers both parts of the question. Every claim is directly supported by the provided context snippets."
+  },
+  {
+    "question": "What does the report say about bank capital buffers, liquidity and non-performing loans?",
+    "method": "single_query",
+    "answer": "Commercial banks remain well capitalized, liquid, and profitable [C011]. All banks maintained regulatory capital above the 12 percent prudential requirement [C067]. Following Basel II implementation, aggregated regulatory capital to risk-weighted assets dropped 3.9 percentage points year-on-year to 19 percent as of July 2024, prompting CBS to engage banks to increase their capital adequacy ratio (CAR) buffers through capital planning, with improvements noted in Q2 2024 [C067].\n\nNPLs remain elevated above pre-pandemic levels [C011, C067]. Banking sector NPLs rose 5.7 percent year-on-year to R852 million by July 2024, though the NPL-to-gross loans ratio declined to 7.2 percent in June and July 2024 [C011, C067]. NPLs are largely concentrated in tourism and primarily affect a specific bank [C011].",
+    "retrieved": [
+      "C089",
+      "C185",
+      "C067",
+      "C151",
+      "C011"
+    ],
+    "pages_covered": 5,
+    "context_tokens": 1867,
+    "queries": [
+      "What does the report say about bank capital buffers, liquidity and non-performing loans?"
+    ],
+    "citations": [
+      "C011",
+      "C067"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 4,
+    "completeness": 3,
+    "hallucinated_claims": [],
+    "rationale": "All claims in the answer are strictly supported by the provided context. The answer addresses capital buffers and NPLs in good detail. However, regarding liquidity (which was specifically asked in the prompt), the answer only mentions that commercial banks remain 'liquid', omitting important details from the reference pool such as the banking sector's liquidity position remaining robust with all banks maintaining a liquid asset to total liabilities ratio well above the minimum requirement of 20 percent (C068)."
+  },
+  {
+    "question": "What does the report say about bank capital buffers, liquidity and non-performing loans?",
+    "method": "multi_query",
+    "answer": "Banks remain well capitalized, with regulatory capital exceeding the 12 percent prudential requirement, reaching a 19 percent regulatory capital to risk-weighted assets ratio as of July 2024 [C067]. Following a Q1 2024 decline from Basel II adoption, CBS engaged banks to increase capital adequacy ratio (CAR) buffers through capital planning, yielding improvements in Q2 2024 [C067]. \n\nLiquidity remains robust, with commercial banks staying liquid and all banks keeping liquid asset to total liabilities ratios well above the 20 percent minimum requirement [C011], [C068]. \n\nHowever, non-performing loans (NPLs) remain elevated [C067]. Total NPLs rose 5.7 percent year-on-year to R852 million, though NPLs to gross loans fell to 7.2 percent by mid-2024 [C011], [C067].",
+    "retrieved": [
+      "C185",
+      "C049",
+      "C089",
+      "C056",
+      "C067",
+      "C186",
+      "C068",
+      "C011"
+    ],
+    "pages_covered": 6,
+    "context_tokens": 3211,
+    "queries": [
+      "What does the report say about bank capital buffers, liquidity and non-performing loans?",
+      "banking sector capital adequacy ratio CAR liquidity coverage ratio LCR non-performing loans NPLs",
+      "bank regulatory capital buffers funding liquidity asset quality impaired loans provisioning",
+      "financial soundness indicators Tier 1 CET1 liquid assets non-performing exposures NPE",
+      "report bank capital buffers liquidity non-performing loans"
+    ],
+    "citations": [
+      "C011",
+      "C067",
+      "C068"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 4,
+    "hallucinated_claims": [],
+    "rationale": "The answer is fully faithful to the provided context and directly addresses all three components of the prompt (capital buffers, liquidity, and NPLs). Completeness is rated 4 because it omits a few relevant details present in the reference pool regarding NPLs (such as NPLs remaining above the pre-pandemic average of 3%, their concentration in the tourism sector, affecting a specific bank, and CBS's asset quality examination)."
+  },
+  {
+    "question": "What inflation outcome and inflation outlook does the report describe, and what drives it?",
+    "method": "single_query",
+    "answer": "**Outcomes:** Inflation rebounded from negative figures observed since October 2023 [C013, C136]. As of August, year-on-year inflation reached 0.5 percent, with a 12-month average of -0.9 percent [C062]. In September, core inflation was -0.4 percent YOY [C024]. \n\n**Outlook:** Inflation is projected to remain moderate [C024]. For 2024, annual inflation is forecasted at 0.5 percent [C136], reaching 2.5 percent year-on-year and 0.5 percent on a 12-month average by December [C062]. Inflationary pressures are expected to rise in 2025 [C136].\n\n**Drivers:** The rise is primarily driven by higher utility tariffs [C013, C136], currency depreciation [C013, C062, C136], and unwinding lower global fuel prices [C013]. Further pressures stem from a weaker Rupee, euro-dollar cross rates, and commodity price shocks [C136].",
+    "retrieved": [
+      "C013",
+      "C024",
+      "C136",
+      "C062",
+      "C127"
+    ],
+    "pages_covered": 5,
+    "context_tokens": 1928,
+    "queries": [
+      "What inflation outcome and inflation outlook does the report describe, and what drives it?"
+    ],
+    "citations": [
+      "C013",
+      "C024",
+      "C062",
+      "C136"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 4,
+    "hallucinated_claims": [],
+    "rationale": "The answer is fully faithful to the provided context and directly addresses the question. Relative to the broader reference pool, it omits only a couple of minor details, such as the September year-on-year headline inflation figure (0.6 percent in C005) and the medium-term projection stabilizing at around 3 percent (C006)."
+  },
+  {
+    "question": "What inflation outcome and inflation outlook does the report describe, and what drives it?",
+    "method": "multi_query",
+    "answer": "Inflation has rebounded from negative figures observed since 2023 [C013]. By August 2024, year-on-year inflation stood at 0.5 percent, with a 12-month average of -0.9 percent [C064], while September core inflation was -0.4 percent year-on-year [C024]. \n\nFor the outlook, year-on-year inflation is projected to reach 2.5 percent by end-2024 (with annual inflation at 0.5 percent) and stabilize around 3 percent in the medium term [C006], [C064], [C136]. Inflationary pressures are expected to increase in 2025 [C136].\n\nThese dynamics are driven primarily by increases in utility tariffs, domestic currency depreciation, and the unwinding of lower global fuel prices [C013], [C006], [C064].",
+    "retrieved": [
+      "C013",
+      "C147",
+      "C024",
+      "C006",
+      "C136",
+      "C148",
+      "C064",
+      "C062"
+    ],
+    "pages_covered": 6,
+    "context_tokens": 3106,
+    "queries": [
+      "What inflation outcome and inflation outlook does the report describe, and what drives it?",
+      "headline CPI core inflation outturn projection determinants exchange rate pass-through output gap",
+      "consumer price index trajectory medium-term outlook drivers wage pressures energy food prices",
+      "inflation dynamics disinflation path baseline forecast domestic demand supply shocks",
+      "inflation outcome inflation outlook report describe drives"
+    ],
+    "citations": [
+      "C006",
+      "C013",
+      "C024",
+      "C064",
+      "C136"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 5,
+    "hallucinated_claims": [],
+    "rationale": "The answer directly answers all parts of the prompt with accurate figures and drivers. Every claim made is fully supported by the provided context."
+  },
+  {
+    "question": "What public debt target or fiscal anchor is mentioned, and by which year should it be reached?",
+    "method": "single_query",
+    "answer": "Not found in the retrieved context.",
+    "retrieved": [
+      "C010",
+      "C126",
+      "C066",
+      "C109",
+      "C033"
+    ],
+    "pages_covered": 5,
+    "context_tokens": 2212,
+    "queries": [
+      "What public debt target or fiscal anchor is mentioned, and by which year should it be reached?"
+    ],
+    "citations": [],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 1,
+    "completeness": 1,
+    "hallucinated_claims": [],
+    "rationale": "The answer accurately states that the information is not found in the provided answer context (faithfulness is 5). However, it does not answer the question asked (relevance is 1). In the broader reference pool (specifically C062 and C071), the target of reducing debt to around 50 percent of GDP by 2029 is clearly mentioned, meaning the answer missed the relevant information available in the reference pool (completeness is 1)."
+  },
+  {
+    "question": "What public debt target or fiscal anchor is mentioned, and by which year should it be reached?",
+    "method": "multi_query",
+    "answer": "Not found in the retrieved context.",
+    "retrieved": [
+      "C033",
+      "C109",
+      "C106",
+      "C021",
+      "C010",
+      "C066",
+      "C126",
+      "C086"
+    ],
+    "pages_covered": 8,
+    "context_tokens": 3538,
+    "queries": [
+      "What public debt target or fiscal anchor is mentioned, and by which year should it be reached?",
+      "\"fiscal anchor\" OR \"debt target\" \"percent of GDP\" target year",
+      "medium-term fiscal framework MTFF general government debt rule ceiling horizon",
+      "public sector debt sustainability operational target reduction trajectory by",
+      "public debt target fiscal anchor year reached"
+    ],
+    "citations": [],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 1,
+    "completeness": 1,
+    "hallucinated_claims": [],
+    "rationale": "The answer claims the information is not found in the context, but the reference pool (and even the provided context in C021, C062, and C071) explicitly mentions reducing debt to 50 percent of GDP (or declining to around 49 percent of GDP) by 2029. Consequently, the response fails to answer the question."
+  },
+  {
+    "question": "What are the main downside risks to the economic outlook identified by staff?",
+    "method": "single_query",
+    "answer": "Staff identify several main downside risks to the economic outlook:\n- Commodity price volatility and external shocks to tourism demand [C012].\n- Downside risks to global commodity and transport prices stemming from conflicts in the Middle East, Russia's war in Ukraine, and other regional conflicts [C012].\n- Increased competition in the global tourism industry, slower growth in traditional source markets, or disruptions in new markets [C012].\n- Domestic financial stability risks stemming from large exposures, credit concentration, and high NPLs [C012].\n- Vulnerability to climate change, sea level rise, and natural disasters damaging coastal infrastructure and tourism [C012].\n- Potential escalation of political tensions ahead of the 2025 elections [C012].\n- Negative effects of geopolitical fragmentation [C012].",
+    "retrieved": [
+      "C208",
+      "C045",
+      "C013",
+      "C012",
+      "C210"
+    ],
+    "pages_covered": 4,
+    "context_tokens": 1463,
+    "queries": [
+      "What are the main downside risks to the economic outlook identified by staff?"
+    ],
+    "citations": [
+      "C012"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 5,
+    "hallucinated_claims": [],
+    "rationale": "The answer accurately synthesizes all key downside risks outlined by staff in the 'Outlook and Risks' section of the report. Every point is directly grounded in the provided context, resulting in perfect faithfulness, relevance, and completeness."
+  },
+  {
+    "question": "What are the main downside risks to the economic outlook identified by staff?",
+    "method": "multi_query",
+    "answer": "Downside risks identified by staff include:\n- Commodity price volatility and transport price risks stemming from conflicts in the Middle East, Russia's war in Ukraine, and other regional conflicts [C012].\n- External shocks to tourism demand, driven by increasing competition in the global tourism industry, slower economic growth in traditional source markets, or disruptions in new markets, which could weaken the rupee and increase inflation [C012].\n- Domestic financial stability risks arising from large exposures, credit concentration, and high NPLs [C012].\n- Sea level rise and natural disasters damaging coastal infrastructure and tourism [C012].\n- Escalating political tensions in the runup to the 2025 elections [C012].",
+    "retrieved": [
+      "C045",
+      "C208",
+      "C013",
+      "C207",
+      "C012",
+      "C101",
+      "C210",
+      "C032"
+    ],
+    "pages_covered": 6,
+    "context_tokens": 2625,
+    "queries": [
+      "What are the main downside risks to the economic outlook identified by staff?",
+      "IMF staff assessment downside risks economic outlook baseline projections",
+      "Risk Assessment Matrix RAM macro-financial vulnerabilities headwinds adverse shocks",
+      "balance of risks tilted to the downside macroeconomic forecast growth slowdown",
+      "downside risks economic outlook identified staff"
+    ],
+    "citations": [
+      "C012"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 5,
+    "hallucinated_claims": [],
+    "rationale": "The answer directly and faithfully summarizes the downside risks explicitly enumerated by IMF staff in paragraph 9 of the 'Outlook and Risks' section. All points are fully supported by the context and provide a comprehensive answer to the prompt."
+  },
+  {
+    "question": "Which climate-related reforms or Resilience and Sustainability Facility measures are discussed?",
+    "method": "single_query",
+    "answer": "Discussed climate-related reforms and RSF measures include:\n- Strengthening public investment climate-resilience, integrating climate change into the budget process, and climate risk management for financial institutions [C004].\n- **RM4**: Climate budget tagging (CBT) and long-term fiscal sustainability analysis under climate scenarios [C031], [C113].\n- **RM5**: Adopting a national climate finance mobilization strategy and developing a pipeline of appraised climate-related projects [C113], [C130].\n- **RM6 & RM6.1**: CBS issuing draft and finalized guidelines on the management, supervision, and disclosure of climate-related financial risks [C031], [C113], [C130].\n- **RM9 & RM9.1**: CBS adopting a banking sector climate risk analysis framework and publishing a risk exposure assessment [C132].\n- **RM10**: Adopting an implementation framework and securing funding for adaptation or mitigation projects [C132].",
+    "retrieved": [
+      "C004",
+      "C113",
+      "C130",
+      "C031",
+      "C132"
+    ],
+    "pages_covered": 4,
+    "context_tokens": 1913,
+    "queries": [
+      "Which climate-related reforms or Resilience and Sustainability Facility measures are discussed?"
+    ],
+    "citations": [
+      "C004",
+      "C031",
+      "C113",
+      "C130",
+      "C132"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 3,
+    "hallucinated_claims": [],
+    "rationale": "The answer is fully faithful to the provided context and directly addresses the question. However, regarding completeness against the reference pool, it leaves out several key RSF measures and climate reforms detailed in the pool, such as RM1 (integrating NDC into NDS), RM2 (building legislation), RM3 (PIM policy updates for climate resilience), RM7 (Disaster Risk Financing Strategy), RM8 (scaling up renewable energy and tariff frameworks), and RM11 (green fiscal and tax incentives)."
+  },
+  {
+    "question": "Which climate-related reforms or Resilience and Sustainability Facility measures are discussed?",
+    "method": "multi_query",
+    "answer": "The discussed climate-related reforms and RSF measures include:\n- **RM2:** Approving draft building legislation integrating climate adaptation and mitigation [C115], [C223].\n- **RM4:** Implementing climate budget tagging and fiscal sustainability analysis under climate scenarios [C113], [C031].\n- **RM5 & RM10:** Adopting a national climate finance mobilization strategy, developing project pipelines, and securing project funding [C113], [C115], [C130], [C132].\n- **RM6, RM6.1, RM9, & RM9.1:** CBS guidelines, supervisory frameworks, and risk exposure assessments for climate-related financial risks [C113], [C031], [C132].\n- **RM7:** Adopting a national Disaster Risk Financing Strategy [C115], [C223].\n- **RM8:** Scaling up renewable energy via regulatory frameworks and tariffs [C115], [C223].\n- **RM11:** Introducing green fiscal and tax incentives [C223].",
+    "retrieved": [
+      "C113",
+      "C130",
+      "C004",
+      "C115",
+      "C031",
+      "C132",
+      "C097",
+      "C223"
+    ],
+    "pages_covered": 6,
+    "context_tokens": 3190,
+    "queries": [
+      "Which climate-related reforms or Resilience and Sustainability Facility measures are discussed?",
+      "\"Resilience and Sustainability Facility\" RSF \"Reform Measure\" policy matrix conditionality",
+      "climate change adaptation mitigation green transition carbon pricing fiscal reforms",
+      "\"Resilience and Sustainability Trust\" RST C-PIMA disaster risk management environmental structural benchmarks",
+      "climate-related reforms resilience sustainability facility measures discussed"
+    ],
+    "citations": [
+      "C031",
+      "C113",
+      "C115",
+      "C130",
+      "C132",
+      "C223"
+    ],
+    "invalid_citations": [],
+    "faithfulness": 5,
+    "relevance": 5,
+    "completeness": 4,
+    "hallucinated_claims": [],
+    "rationale": "The answer is fully faithful to the provided context and directly addresses the prompt. In terms of completeness relative to the reference pool, it captures nearly all of the RSF measures (RM2, RM4, RM5, RM6, RM6.1, RM7, RM8, RM9, RM9.1, RM10, RM11), but omits RM1 (integrating NDC priorities into the NDS) and RM3 (updating the Public Investment Management policy to incorporate climate considerations) which appear in C228 and C100."
+  }
+]

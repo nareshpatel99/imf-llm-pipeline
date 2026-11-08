@@ -1,0 +1,3219 @@
+{
+  "pages": [
+    6,
+    33,
+    38
+  ],
+  "points": [
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2021,
+      "value": 0.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2022,
+      "value": 15.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2023,
+      "value": 3.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2024,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2025,
+      "value": 4.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2026,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2027,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2028,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Real GDP",
+      "unit": "Annual percent change",
+      "category": "growth",
+      "year": 2029,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2021,
+      "value": 9.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2022,
+      "value": 2.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2023,
+      "value": -1.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2024,
+      "value": 0.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2025,
+      "value": 2.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2026,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2027,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2028,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (annual average)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2029,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2021,
+      "value": 7.9,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2022,
+      "value": 2.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2023,
+      "value": -2.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2024,
+      "value": 2.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2025,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2026,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2027,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2028,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "CPI (end-of-period)",
+      "unit": "Annual percent change",
+      "category": "prices",
+      "year": 2029,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2021,
+      "value": -11.9,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2022,
+      "value": 4.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2023,
+      "value": 7.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2024,
+      "value": 10.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2025,
+      "value": 10.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2026,
+      "value": 10.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2027,
+      "value": 9.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2028,
+      "value": 9.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Credit to the private sector",
+      "unit": "Annual percent change",
+      "category": "monetary_credit",
+      "year": 2029,
+      "value": 9.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": 30.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 29.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 31.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 33.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 35.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 33.4,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 33.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 33.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 32.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": 39.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 31.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 33.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 37.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 38.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 35.4,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 33.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 33.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Expenditure and net lending",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 32.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": -5.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 0.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 0.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": -2.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": -1.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": -1.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": -0.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 0.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Overall balance, including grants",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 0.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": -3.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 1.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 1.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 1.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 1.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 1.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 2.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 2.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Primary balance",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": 74.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 61.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 58.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 61.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 60.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 59.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 55.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 52.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "Percent of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 48.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2021,
+      "value": -8.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2022,
+      "value": -7.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2023,
+      "value": -7.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2024,
+      "value": -10.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2025,
+      "value": -9.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2026,
+      "value": -9.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2027,
+      "value": -9.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2028,
+      "value": -9.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Current account balance including official transfers (in percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2029,
+      "value": -8.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2021,
+      "value": 355.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2022,
+      "value": 266.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2023,
+      "value": 266.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2024,
+      "value": 285.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2025,
+      "value": 286.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2026,
+      "value": 284.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2027,
+      "value": 279.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2028,
+      "value": 267.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "Percent of GDP",
+      "category": "external",
+      "year": 2029,
+      "value": 257.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2021,
+      "value": 702.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2022,
+      "value": 639.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2023,
+      "value": 682.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2024,
+      "value": 806.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2025,
+      "value": 851.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2026,
+      "value": 852.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2027,
+      "value": 889.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2028,
+      "value": 958.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "Millions of U.S. dollars",
+      "category": "external",
+      "year": 2029,
+      "value": 1001.0,
+      "is_projection": true,
+      "verified_on_page": false
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2021,
+      "value": 3.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2022,
+      "value": 3.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2023,
+      "value": 3.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2024,
+      "value": 3.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2025,
+      "value": 3.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2026,
+      "value": 3.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2027,
+      "value": 3.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2028,
+      "value": 3.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 6,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "Months of imports",
+      "category": "external",
+      "year": 2029,
+      "value": 3.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2021,
+      "value": 0.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2022,
+      "value": 15.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2023,
+      "value": 3.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2024,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2025,
+      "value": 4.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2026,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2027,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2028,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Real GDP",
+      "unit": "%",
+      "category": "growth",
+      "year": 2029,
+      "value": 3.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2021,
+      "value": 9.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2022,
+      "value": 2.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2023,
+      "value": -1.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2024,
+      "value": 0.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2025,
+      "value": 2.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2026,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2027,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2028,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (annual average)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2029,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2021,
+      "value": 7.9,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2022,
+      "value": 2.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2023,
+      "value": -2.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2024,
+      "value": 2.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2025,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2026,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2027,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2028,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "CPI (end-of-period)",
+      "unit": "%",
+      "category": "prices",
+      "year": 2029,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2021,
+      "value": -11.9,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2022,
+      "value": 4.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2023,
+      "value": 7.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2024,
+      "value": 10.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2025,
+      "value": 10.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2026,
+      "value": 10.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2027,
+      "value": 9.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2028,
+      "value": 9.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Credit to the private sector",
+      "unit": "%",
+      "category": "monetary_credit",
+      "year": 2029,
+      "value": 9.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": 30.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 29.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 31.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 33.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 35.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 33.4,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 33.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 33.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total revenue, excluding grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 32.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": 39.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 31.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 33.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 37.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 38.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 35.4,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 33.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 33.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Expenditure and net lending",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 32.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": -5.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 0.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 0.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": -2.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": -1.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": -1.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": -0.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 0.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Overall balance, including grants",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 0.7,
+      "is_projection": true,
+      "verified_on_page": false
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": -3.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 1.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 1.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 1.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 1.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 1.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 2.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 2.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Primary balance",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 3.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2021,
+      "value": 74.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2022,
+      "value": 61.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2023,
+      "value": 58.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2024,
+      "value": 61.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2025,
+      "value": 60.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2026,
+      "value": 59.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2027,
+      "value": 55.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2028,
+      "value": 52.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total government and government-guaranteed debt",
+      "unit": "% of GDP",
+      "category": "fiscal_debt",
+      "year": 2029,
+      "value": 48.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2021,
+      "value": -8.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2022,
+      "value": -7.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2023,
+      "value": -7.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2024,
+      "value": -10.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2025,
+      "value": -9.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2026,
+      "value": -9.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2027,
+      "value": -9.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2028,
+      "value": -9.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Current account balance including official transfers",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2029,
+      "value": -8.9,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2021,
+      "value": 355.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2022,
+      "value": 266.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2023,
+      "value": 266.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2024,
+      "value": 285.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2025,
+      "value": 286.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2026,
+      "value": 284.1,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2027,
+      "value": 279.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2028,
+      "value": 267.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Total external debt outstanding (percent of GDP)",
+      "unit": "% of GDP",
+      "category": "external",
+      "year": 2029,
+      "value": 257.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2021,
+      "value": 702.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2022,
+      "value": 639.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2023,
+      "value": 682.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2024,
+      "value": 806.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2025,
+      "value": 851.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2026,
+      "value": 852.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2027,
+      "value": 889.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2028,
+      "value": 958.0,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross official reserves (end of year, millions of U.S. dollars)",
+      "unit": "millions of U.S. dollars",
+      "category": "external",
+      "year": 2029,
+      "value": 1001.0,
+      "is_projection": true,
+      "verified_on_page": false
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2021,
+      "value": 3.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2022,
+      "value": 3.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2023,
+      "value": 3.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2024,
+      "value": 3.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2025,
+      "value": 3.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2026,
+      "value": 3.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2027,
+      "value": 3.6,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2028,
+      "value": 3.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Months of imports, c.i.f.",
+      "unit": "months of imports",
+      "category": "external",
+      "year": 2029,
+      "value": 3.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2021,
+      "value": 25.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2022,
+      "value": 23.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2023,
+      "value": 24.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2024,
+      "value": 25.4,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2025,
+      "value": 26.8,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2026,
+      "value": 25.5,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2027,
+      "value": 25.7,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2028,
+      "value": 26.2,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 33,
+      "indicator": "Gross investment",
+      "unit": "% of GDP",
+      "category": "growth",
+      "year": 2029,
+      "value": 26.3,
+      "is_projection": true,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 20.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 19.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 17.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 22.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 20.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 21.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory tier 1 capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 16.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory tier 1 capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 16.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory tier 1 capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 14.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory tier 1 capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 17.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory tier 1 capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 15.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Regulatory tier 1 capital to risk weighted assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 16.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Capital to assets (net worth)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 10.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Capital to assets (net worth)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 9.9,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Capital to assets (net worth)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 8.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Capital to assets (net worth)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 9.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Capital to assets (net worth)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 8.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Capital to assets (net worth)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 10.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Foreign exchange loans to total loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 24.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Foreign exchange loans to total loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 26.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Foreign exchange loans to total loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 36.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Foreign exchange loans to total loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 27.9,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Foreign exchange loans to total loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 24.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Foreign exchange loans to total loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 19.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Non-performing loans to gross loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 3.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Non-performing loans to gross loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 2.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Non-performing loans to gross loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 3.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Non-performing loans to gross loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 5.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Non-performing loans to gross loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 7.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Non-performing loans to gross loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 8.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Provision as percentage of non-performing loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 19.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Provision as percentage of non-performing loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 25.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Provision as percentage of non-performing loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 38.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Provision as percentage of non-performing loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 32.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Provision as percentage of non-performing loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 20.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Provision as percentage of non-performing loans",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 18.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on assets (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 3.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on assets (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 2.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on assets (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 1.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on assets (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 2.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on assets (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 8.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on assets (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 1.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on equity (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 35.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on equity (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 24.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on equity (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 11.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on equity (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 28.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on equity (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 91.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Return on equity (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 10.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Net interest margin (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 4.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Net interest margin (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 9.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Net interest margin (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 7.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Net interest margin (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 7.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Net interest margin (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 3.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Net interest margin (annualized)",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 4.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Core liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 45.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Core liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 44.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Core liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 44.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Core liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 43.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Core liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 47.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Core liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 49.1,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Broad liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 58.2,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Broad liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 55.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Broad liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 57.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Broad liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 59.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Broad liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 63.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Broad liquid assets to total assets",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 62.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets (broad) to short term liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 63.7,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets (broad) to short term liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 60.6,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets (broad) to short term liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 62.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets (broad) to short term liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 66.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets (broad) to short term liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 69.0,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets (broad) to short term liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 69.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets to deposit liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2018,
+      "value": 68.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets to deposit liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2019,
+      "value": 65.3,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets to deposit liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2020,
+      "value": 67.8,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets to deposit liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2021,
+      "value": 69.4,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets to deposit liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2022,
+      "value": 72.5,
+      "is_projection": false,
+      "verified_on_page": true
+    },
+    {
+      "page": 38,
+      "indicator": "Liquid assets to deposit liabilities",
+      "unit": "%",
+      "category": "financial_soundness",
+      "year": 2023,
+      "value": 73.5,
+      "is_projection": false,
+      "verified_on_page": true
+    }
+  ]
+}

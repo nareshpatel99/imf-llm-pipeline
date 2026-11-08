@@ -1,0 +1,872 @@
+[
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 32.39,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 35.29,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 27.58,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 21.18,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 53.41,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 25.78,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 19.06,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 17.26,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 34.53,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 44.74,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 24.94,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 92.72,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 32.03,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 31.88,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "section_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 20.65,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "exec_summary",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 19.68,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.3,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 8.56,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 8.36,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.03,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.66,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 9.32,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 49.2,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.93,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 5.54,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 8.58,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.19,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 10.21,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 9.53,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 12.78,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_section",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 14.31,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_exec",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 15.13,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "exec_revise",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 160.26,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_exec_revised",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 14.3,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.93,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 2.74,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 2.87,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 12.68,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 14.2,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 30.16,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.23,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 27.11,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 4.27,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "theme_classify",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 168.29,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "insights",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 11.39,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_insights",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 9.7,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "indicators",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.91,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_indicators",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 10.09,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "series",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 29.01,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "series",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 60.35,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "series",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 26.78,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 9.51,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 9.51,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_single_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 5.08,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_single_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.28,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_multi_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 6.55,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_multi_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.47,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 22.92,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 22.92,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_single_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 8.75,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_single_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 12.6,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_multi_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 5.85,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_multi_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 11.09,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 8.12,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 8.12,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_single_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 9.05,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_single_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 8.58,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_multi_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 7.23,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_multi_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.08,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.79,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.79,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_single_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 8.42,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_single_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 9.37,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_multi_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 26.58,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_multi_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.35,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 10.27,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 10.27,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_single_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 5.96,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_single_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.4,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_multi_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 6.01,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_multi_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.71,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.62,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "mq_variants",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 7.62,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_single_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 9.94,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_single_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 6.64,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "rag_multi_query",
+    "model": "google/gemini-3.7-flash",
+    "backend": "colab_ai",
+    "mode": "text",
+    "latency_s": 8.11,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  },
+  {
+    "tag": "judge_rag_multi_query",
+    "model": "google/gemini-3.8-flash",
+    "backend": "colab_ai",
+    "mode": "schema",
+    "latency_s": 12.03,
+    "prompt_tokens": null,
+    "output_tokens": null,
+    "cache_hit": true
+  }
+]

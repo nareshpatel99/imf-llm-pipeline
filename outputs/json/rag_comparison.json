@@ -1,0 +1,22 @@
+{
+  "summary": [
+    {
+      "method": "multi_query",
+      "faithfulness": 5.0,
+      "relevance": 4.33,
+      "completeness": 4.0,
+      "context_tokens": 3188.83,
+      "pages_covered": 6.67
+    },
+    {
+      "method": "single_query",
+      "faithfulness": 5.0,
+      "relevance": 4.17,
+      "completeness": 3.5,
+      "context_tokens": 1928.67,
+      "pages_covered": 4.67
+    }
+  ],
+  "not_found_answers": 2,
+  "invalid_citation_answers": 0
+}

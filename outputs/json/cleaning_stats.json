@@ -1,0 +1,15 @@
+{
+  "pages": 103,
+  "narrative_pages": 73,
+  "table_or_figure_pages": 30,
+  "raw_chars": 326838,
+  "clean_chars": 309551,
+  "clean_words": 47646,
+  "clean_tokens": 73183,
+  "boilerplate_patterns_removed": [
+    "# INTERNATIONAL MONETARY FUND",
+    "INTERNATIONAL MONETARY FUND #",
+    "SEYCHELLES",
+    "©International Monetary Fund. Not for Redistribution"
+  ]
+}

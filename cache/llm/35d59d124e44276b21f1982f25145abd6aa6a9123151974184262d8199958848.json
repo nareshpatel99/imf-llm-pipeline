@@ -1,0 +1,1 @@
+{"meta": {"tag": "rag_single_query", "model": "google/gemini-3.7-flash", "backend": "colab_ai", "mode": "text", "latency_s": 8.42, "prompt_tokens": null, "output_tokens": null}, "text": "Not found in the retrieved context."}
